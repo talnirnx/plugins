@@ -1,9 +1,0 @@
-{
-  "mcpServers": {
-    "nxvet": {
-      "type": "http",
-      "url": "https://mcp.nx.vet/mcp",
-      "bearer_token_env_var": "NXVET_API_KEY"
-    }
-  }
-}

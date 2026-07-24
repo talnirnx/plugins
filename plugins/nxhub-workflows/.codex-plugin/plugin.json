@@ -18,7 +18,6 @@
     "clinic-reporting"
   ],
   "skills": "./skills/",
-  "mcpServers": "./.mcp.json",
   "interface": {
     "displayName": "Private Voice & Clinic Workflows",
     "shortDescription": "Create local reminders and clinic reports",
