@@ -1,0 +1,4 @@
+interface:
+  display_name: "Voice Notes to Reminders"
+  short_description: "Create private local reminders from NxHUB notes"
+  default_prompt: "Use $voice-notes-to-reminders to process my latest NxHUB notes into private local reminders."

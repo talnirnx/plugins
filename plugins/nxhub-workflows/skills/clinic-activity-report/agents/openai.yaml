@@ -1,0 +1,4 @@
+interface:
+  display_name: "Clinic Activity Report"
+  short_description: "Create private read-only clinic activity reports"
+  default_prompt: "Use $clinic-activity-report to create a private weekly activity and device-health report."
